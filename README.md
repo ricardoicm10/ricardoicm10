@@ -41,13 +41,21 @@ be in the area of full stack developer
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="" alt="" width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="" alt="" width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="" alt="" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C Language" alt="C" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJs" alt="ReactJs" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>
     <img src="" title="" alt="" width="40"/>
-    <img src="" title="" alt="" width="40"/>
-    <img src="" title="" alt="" width="40"/>
-    <img src="" title="" alt="" width="40"/>
+    
+    
   </div>
 </div>
 
