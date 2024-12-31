@@ -10,10 +10,7 @@ by taking online courses, I try to
 adapt as quickly as possible.
 I want to become an important
 piece within my work group and
-within the company.I can work
-in any assigned area but where I
-could maximize my skills would
-be in the area of full stack developer
+within the company.
 </h3>
   
 </div>
@@ -27,9 +24,9 @@ be in the area of full stack developer
 ---
 
 ### 👨‍💻 About me :
-📝 I work for Intel Corporation and Blau
+📝 I work for Oracle
 
-💬 Ask me about React, C, Python, Javascript
+💬 Ask me about C, C++, Python, Javascript, React
 
 📫 How to reach me ricardoicm13@gmail.com
 
